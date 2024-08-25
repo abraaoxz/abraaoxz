@@ -4,12 +4,7 @@
 
 ## Sobre Mim
 
-- 🔭 Atualmente estou trabalhando em Seu Projeto Atual
-- 🌱 Estou aprendendo **React**, **Node.js** e **TypeScript**
-- 👯 Estou procurando colaborar em projetos de **Open Source**
-- 💬 Pergunte-me sobre **JavaScript**, **HTML/CSS** e **Desenvolvimento Web**
-- 📫 Como me encontrar: abraao@example.com
-- ⚡ Curiosidade: Adoro jogar xadrez e resolver quebra-cabeças!
+- 🔭 Atualmente estou estudando mais sobre Offensive Security
 
 ## Estatísticas do GitHub
 
@@ -17,12 +12,7 @@
 
 ## Tecnologias e Ferramentas
 
-!JavaScript
-!React
-!Node.js
-!TypeScript
-!HTML5
-!CSS3
+- OSINT
 
 ## Projetos Destacados
 
@@ -32,8 +22,6 @@
 
 ## Conecte-se Comigo
 
-!LinkedIn
-!Twitter
 !Instagram
 
 ---
