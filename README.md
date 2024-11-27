@@ -1,4 +1,4 @@
-# Olá, eu sou o Abraaoxz! 👋
+# Olá, eu sou o Abraao 👋
 
 !Banner
 
