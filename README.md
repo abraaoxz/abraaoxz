@@ -1,30 +1,9 @@
-# Olá, eu sou o Abraao 👋
-
-!Banner
+# Olá, Seja bem vindo(a) ao meu Github👋
 
 ## Sobre Mim
 
-- 🔭 Atualmente estou estudando mais sobre Offensive Security
+- 🔭 No momento, estou me estudando bastante e criando alguns projetos!
 
-## Estatísticas do GitHub
-
-!Estatísticas do GitHub
-
-## Tecnologias e Ferramentas
-
-- OSINT
-
-## Projetos Destacados
-
-- Projeto 1 - Descrição breve do projeto 1.
-- Projeto 2 - Descrição breve do projeto 2.
-- Projeto 3 - Descrição breve do projeto 3.
-
-## Conecte-se Comigo
-
-!Instagram
+⭐️ **Se curtiu meu trabalho, deixa uma estrela nos meus repositórios!**
 
 ---
-
-⭐️ Deixe uma estrela nos meus repositórios se você gostou do meu trabalho!
-
