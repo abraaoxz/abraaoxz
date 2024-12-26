@@ -1,9 +1,21 @@
-# Olá, Seja bem vindo(a) ao meu Github👋
+# Bem-vindo ao meu GitHub
+
+Olá! Eu sou o Abraao Santos, um desenvolvedor apaixonado por tecnologia e programação. Este repositório contém alguns dos meus projetos e contribuições.
 
 ## Sobre Mim
 
-- 🔭 No momento, estou me estudando bastante e criando alguns projetos!
+- **Nome:** Abraao Santos
+- **GitHub:** [Seu Perfil no GitHub](https://github.com/abraaoxz)
+- **Email:** [abraaoxz@icloud.com]
 
-⭐️ **Se curtiu meu trabalho, deixa uma estrela nos meus repositórios!**
+## Projetos
 
----
+Aqui estão alguns dos meus projetos mais recentes:
+
+1. **[Projeto 1](https://github.com/abraaoxz/SALVA-SENHAS-PY):** Descrição breve do projeto.
+
+## Contato
+
+Sinta-se à vontade para entrar em contato comigo através do meu [email](mailto:abraaoxz@icloud.com) ou conectar-se comigo no [LinkedIn](https://www.linkedin.com/in/seu-usuario).
+
+Obrigado por visitar meu GitHub!
