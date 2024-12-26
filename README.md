@@ -12,7 +12,7 @@ Olá! Eu sou o Abraao Santos, um desenvolvedor apaixonado por tecnologia e progr
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-1. **[Projeto 1](https://github.com/abraaoxz/SALVA-SENHAS-PY):** Descrição breve do projeto.
+1. **[Projeto 1](https://github.com/abraaoxz/SALVA-SENHAS-PY):** Gerenciador de senhas em PY
 
 ## Contato
 
